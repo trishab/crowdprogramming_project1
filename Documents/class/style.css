@@ -1,0 +1,14 @@
+.container {
+	padding-bottom: 30px;
+	float: center;
+}
+/* resize images */
+.container img {
+    width: 50%;
+    height: auto;
+    padding-bottom: 10px;
+}
+
+.body {
+
+}
